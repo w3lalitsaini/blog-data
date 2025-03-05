@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "How to Build a React Application",
+    "category": ["Web Developmen", "Trending"],
+    "type": "Tutorial",
+    "img": "/Images/hero-1.jpg",
+    "content": "In this tutorial, we'll learn how to build a simple React application from scratch. React is a JavaScript library for building user interfaces...",
+    "date": "2025-03-01",
+    "tags": ["React", "JavaScript", "Web Development", "Tutorial"],
+    "isFeatured": true,
+    "slug": "how-to-build-a-react-application",
+    "excerpt": "Learn how to build a React app with this step-by-step tutorial for beginners.",
+    "seo": {
+      "metaTitle": "How to Build a React Application - A Complete Guide",
+      "metaDescription": "A comprehensive tutorial on building React applications, from setup to deployment.",
+      "keywords": ["React", "web development", "JavaScript tutorial"]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Node.js for Beginners",
+    "category": ["Backend Development", "Trending", "Technology"],
+    "type": "Guide",
+    "img": "/Images/hero-1.jpg",
+    "content": "Node.js is a powerful tool for building fast and scalable network applications. In this guide, we will explore the basics of Node.js and how to get started...",
+    "date": "2025-02-25",
+    "tags": ["Node.js", "JavaScript", "Backend", "Guide"],
+    "isFeatured": false,
+    "slug": "introduction-to-nodejs-for-beginners",
+    "excerpt": "Learn the basics of Node.js and how to get started building backend applications with JavaScript. ",
+    "seo": {
+      "metaTitle": "Introduction to Node.js - A Beginner's Guide",
+      "metaDescription": "A beginner-friendly introduction to Node.js, perfect for those new to backend development.",
+      "keywords": ["Node.js", "backend development", "JavaScript"]
+    }
+  },
+  {
+    "id": 3,
+    "title": "10 Essential CSS Tricks for Web Designers",
+    "category": ["Web Design", "Trending"],
+    "type": "List",
+    "img": "/Images/hero-1.jpg",
+    "content": "CSS is a powerful tool for web design, and mastering some key tricks can make your designs stand out. Here are 10 CSS techniques every designer should know...",
+    "date": "2025-01-20",
+    "tags": ["CSS", "Web Design", "Frontend", "Tricks"],
+    "isFeatured": true,
+    "slug": "10-essential-css-tricks-for-web-designers",
+    "excerpt": "Discover 10 essential CSS tricks that will make your web designs more efficient and visually appealing.",
+    "seo": {
+      "metaTitle": "10 Essential CSS Tricks - Enhance Your Web Design Skills",
+      "metaDescription": "Boost your web design skills with these 10 essential CSS tricks every designer should master.",
+      "keywords": ["CSS", "web design", "frontend development", "design tricks"]
+    }
+  },
+  {
+    "id": 4,
+    "title": "How to Build a React Application",
+    "category": "Web Development, Trending",
+    "type": "Tutorial",
+    "img": "/Images/hero-1.jpg",
+    "content": "In this tutorial, we'll learn how to build a simple React application from scratch. React is a JavaScript library for building user interfaces...",
+    "date": "2025-03-01",
+    "tags": ["React", "JavaScript", "Web Development", "Tutorial"],
+    "isFeatured": true,
+    "slug": "how-to-build-a-react-application",
+    "excerpt": "Learn how to build a React app with this step-by-step tutorial for beginners.",
+    "seo": {
+      "metaTitle": "How to Build a React Application - A Complete Guide",
+      "metaDescription": "A comprehensive tutorial on building React applications, from setup to deployment.",
+      "keywords": ["React", "web development", "JavaScript tutorial"]
+    }
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Node.js for Beginners",
+    "category": "Backend Development, Trending",
+    "type": "Guide",
+    "img": "/Images/hero-1.jpg",
+    "content": "Node.js is a powerful tool for building fast and scalable network applications. In this guide, we will explore the basics of Node.js and how to get started...",
+    "date": "2025-02-25",
+    "tags": ["Node.js", "JavaScript", "Backend", "Guide"],
+    "isFeatured": false,
+    "slug": "introduction-to-nodejs-for-beginners",
+    "excerpt": "Learn the basics of Node.js and how to get started building backend applications with JavaScript. ",
+    "seo": {
+      "metaTitle": "Introduction to Node.js - A Beginner's Guide",
+      "metaDescription": "A beginner-friendly introduction to Node.js, perfect for those new to backend development.",
+      "keywords": ["Node.js", "backend development", "JavaScript"]
+    }
+  },
+  {
+    "id": 6,
+    "title": "10 Essential CSS Tricks for Web Designers",
+    "category": "Web Design, Technology",
+    "type": "List",
+    "img": "/Images/hero-1.jpg",
+    "content": "CSS is a powerful tool for web design, and mastering some key tricks can make your designs stand out. Here are 10 CSS techniques every designer should know...",
+    "date": "2025-01-20",
+    "tags": ["CSS", "Web Design", "Frontend", "Tricks"],
+    "isFeatured": true,
+    "slug": "10-essential-css-tricks-for-web-designers",
+    "excerpt": "Discover 10 essential CSS tricks that will make your web designs more efficient and visually appealing.",
+    "seo": {
+      "metaTitle": "10 Essential CSS Tricks - Enhance Your Web Design Skills",
+      "metaDescription": "Boost your web design skills with these 10 essential CSS tricks every designer should master.",
+      "keywords": ["CSS", "web design", "frontend development", "design tricks"]
+    }
+  },
+  {
+    "id": 7,
+    "title": "How to Build a React Application",
+    "category": "Web Development",
+    "type": "Tutorial",
+    "img": "/Images/hero-1.jpg",
+    "content": "In this tutorial, we'll learn how to build a simple React application from scratch. React is a JavaScript library for building user interfaces...",
+    "date": "2025-03-01",
+    "tags": ["React", "JavaScript", "Web Development", "Tutorial"],
+    "isFeatured": true,
+    "slug": "how-to-build-a-react-application",
+    "excerpt": "Learn how to build a React app with this step-by-step tutorial for beginners.",
+    "seo": {
+      "metaTitle": "How to Build a React Application - A Complete Guide",
+      "metaDescription": "A comprehensive tutorial on building React applications, from setup to deployment.",
+      "keywords": ["React", "web development", "JavaScript tutorial"]
+    }
+  },
+  {
+    "id": 8,
+    "title": "Introduction to Node.js for Beginners",
+    "category": "Backend Development",
+    "type": "Guide",
+    "img": "/Images/hero-1.jpg",
+    "content": "Node.js is a powerful tool for building fast and scalable network applications. In this guide, we will explore the basics of Node.js and how to get started...",
+    "date": "2025-02-25",
+    "tags": ["Node.js", "JavaScript", "Backend", "Guide"],
+    "isFeatured": false,
+    "slug": "introduction-to-nodejs-for-beginners",
+    "excerpt": "Learn the basics of Node.js and how to get started building backend applications with JavaScript. ",
+    "seo": {
+      "metaTitle": "Introduction to Node.js - A Beginner's Guide",
+      "metaDescription": "A beginner-friendly introduction to Node.js, perfect for those new to backend development.",
+      "keywords": ["Node.js", "backend development", "JavaScript"]
+    }
+  },
+  {
+    "id": 9,
+    "title": "10 Essential CSS Tricks for Web Designers",
+    "category": "Web Design",
+    "type": "List",
+    "img": "/Images/hero-1.jpg",
+    "content": "CSS is a powerful tool for web design, and mastering some key tricks can make your designs stand out. Here are 10 CSS techniques every designer should know...",
+    "date": "2025-01-20",
+    "tags": ["CSS", "Web Design", "Frontend", "Tricks"],
+    "isFeatured": true,
+    "slug": "10-essential-css-tricks-for-web-designers",
+    "excerpt": "Discover 10 essential CSS tricks that will make your web designs more efficient and visually appealing.",
+    "seo": {
+      "metaTitle": "10 Essential CSS Tricks - Enhance Your Web Design Skills",
+      "metaDescription": "Boost your web design skills with these 10 essential CSS tricks every designer should master.",
+      "keywords": ["CSS", "web design", "frontend development", "design tricks"]
+    }
+  }
+]
